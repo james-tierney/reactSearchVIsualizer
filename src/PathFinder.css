@@ -1,0 +1,14 @@
+.grid-container {
+    margin: 5% auto;
+}
+
+.grid {
+    white-space: pre;
+}
+
+button {
+    margin: 3px;
+    color: white;
+    background-color: black;
+    outline-color: black;
+}
